@@ -65,5 +65,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Joaovlss4&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="150" src="https://github.com/Joaovlss4/Joaovlss4/blob/main/corgi.gif"/>
 </div>
-<img height="150" src="https://github.com/Joaovlss4/Joaovlss4/blob/main/corgi.gif"/>
